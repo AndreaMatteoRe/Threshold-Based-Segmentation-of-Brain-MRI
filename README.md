@@ -26,5 +26,7 @@ HOW TO USE THE PROJECT
 4) Consult Threshold-Based-Segmentation-of-Brain-MRI.pptx for a concise summary of the project objectives, methods, and main conclusions.
 -----
 Authors: Ilaria Coccollone, Andrea Matteo Re
+
 Email: i.coccollone@campus.unimib.it, a.re25@campus.unimib.it
+
 Github: https://github.com/IlariaCoccollone, https://github.com/AndreaMatteoRe
