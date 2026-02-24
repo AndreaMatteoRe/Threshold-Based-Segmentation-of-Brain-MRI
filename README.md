@@ -3,7 +3,7 @@ THRESHOLD-BASED SEGMENTATION AND PROCESSING OF BRAIN MRI IMAGES
 This folder contains all the files related to the project on the segmentation and processing of brain MRI images using threshold-based techniques.
 -----
 
-File structure:
+File structure 📂 :
 
 1. BraTS20_Training_012_t1.nii → the T1-weighted brain MRI image from the BraTS 2020 dataset used as input for the threshold-based segmentation and processing experiments.
  --> Here you can find the dataset on Kaggle: https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
